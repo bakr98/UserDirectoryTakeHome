@@ -1,13 +1,13 @@
+<br><br>
 # UserDirectory (Take Home)
 
 <img src="/UserDirectory/Assets.xcassets/AppIcon.appiconset/1024X1024UserDirectory11.png" width="80" alt="App Icon" align="right">
 
 
-A SwiftUI-based iOS User Directory app that lists users from the JSONPlaceholder API. It supports search, sorting, caching, pull-to-refresh, and detailed views. The app uses MVVM and is built to be clean, testable, modular, and responsive.
+A SwiftUI-based iOS User Directory app that lists users from the JSONPlaceholder API. It supports search, sorting, caching, pull-to-refresh, and detailed views. 
 
-
+The app uses MVVM and is built to be clean, testable, modular, and responsive.
 <br><br>
-
 ## 📱 Compatibility
 
 - **Deployment Target:** iOS 16+
@@ -78,22 +78,24 @@ iOS 17.5/18.0
 - Pull to refresh.
 - Sort users by name or city (ascending/descending).
 - Handles loading state, success, and errors.
+<br><br>
 
 ### ✅ User Details
 - Tapping a user shows:
   - Name, email, phone, company, full address.
   - A button to open their website in Safari.
+<br><br>
 
 ### ✅ Offline Support
 - Uses `UserDefaults` to cache users.
 - If the API call fails, or the user is offline, cached data is shown instead.
+<br><br>
 
 ### ✅ Unit Tests
 - Includes unit tests for:
   - Filtering/search logic.
   - UserService fetching.
   - Result validation and edge cases.
-
 <br><br>
 
 ## 🧪 Testing
