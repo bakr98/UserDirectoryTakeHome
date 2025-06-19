@@ -12,6 +12,7 @@ The app uses MVVM and is built to be clean, testable, modular, and responsive.
 
 - **Deployment Target:** iOS 16+
 - **Tested On:**
+  
   - iOS 16.5.1
   - iOS 17.5
   - iOS 18.0
