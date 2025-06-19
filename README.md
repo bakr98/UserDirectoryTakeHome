@@ -1,4 +1,4 @@
-<br><br>
+
 # UserDirectory (Take Home)
 
 <img src="/UserDirectory/Assets.xcassets/AppIcon.appiconset/1024X1024UserDirectory11.png" width="80" alt="App Icon" align="right">
