@@ -10,6 +10,7 @@
 		E104305A2E02648600F8345F /* UserStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10430592E02648600F8345F /* UserStore.swift */; };
 		E10430692E03A46500F8345F /* String+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10430682E03A46500F8345F /* String+Ext.swift */; };
 		E104306B2E03C4C800F8345F /* Screenshots in Resources */ = {isa = PBXBuildFile; fileRef = E104306A2E03C4C800F8345F /* Screenshots */; };
+		E104306D2E03D47000F8345F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E104306C2E03D47000F8345F /* .gitignore */; };
 		E1099D392E0127E0009102A1 /* UserDirectoryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1099D382E0127E0009102A1 /* UserDirectoryApp.swift */; };
 		E1099D3D2E0127EB009102A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1099D3C2E0127EB009102A1 /* Assets.xcassets */; };
 		E1099D402E0127EB009102A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1099D3F2E0127EB009102A1 /* Preview Assets.xcassets */; };
@@ -50,9 +51,9 @@
 /* Begin PBXFileReference section */
 		E10430592E02648600F8345F /* UserStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserStore.swift; sourceTree = "<group>"; };
 		E10430662E0398D000F8345F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		E10430672E03999E00F8345F /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 		E10430682E03A46500F8345F /* String+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Ext.swift"; sourceTree = "<group>"; };
 		E104306A2E03C4C800F8345F /* Screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Screenshots; sourceTree = "<group>"; };
+		E104306C2E03D47000F8345F /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		E1099D352E0127E0009102A1 /* UserDirectory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UserDirectory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1099D382E0127E0009102A1 /* UserDirectoryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDirectoryApp.swift; sourceTree = "<group>"; };
 		E1099D3C2E0127EB009102A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -113,7 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				E10430662E0398D000F8345F /* README.md */,
-				E10430672E03999E00F8345F /* .gitignore.md */,
+				E104306C2E03D47000F8345F /* .gitignore */,
 				E104306A2E03C4C800F8345F /* Screenshots */,
 				E1099D372E0127E0009102A1 /* UserDirectory */,
 				E1099D482E0127EB009102A1 /* UserDirectoryTests */,
@@ -325,6 +326,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E104306D2E03D47000F8345F /* .gitignore in Resources */,
 				E1099D402E0127EB009102A1 /* Preview Assets.xcassets in Resources */,
 				E104306B2E03C4C800F8345F /* Screenshots in Resources */,
 				E1099D3D2E0127EB009102A1 /* Assets.xcassets in Resources */,
