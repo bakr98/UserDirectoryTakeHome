@@ -1,7 +1,7 @@
 
 # UserDirectory (Take Home)
 
-<img src="/UserDirectory/Assets.xcassets/AppIcon.appiconset/1024X1024UserDirectory11.png" width="80" alt="App Icon" align="right">
+<img src="/Screenshots/1024X1024UserDirectory1-11024X1024UserDirectory0.png" width="80" alt="App Icon" align="right">
 
 
 A SwiftUI-based iOS User Directory app that lists users from the JSONPlaceholder API. It supports search, sorting, caching, pull-to-refresh, and detailed views. 
