@@ -46,6 +46,10 @@ iOS 17.5/18.0
       <img src="Screenshots/UserDirectory_Search.png"  width="200"/>
       <br><sub>Search</sub>
     </td>
+    <td align="center">
+      <img src="Screenshots/UserDirectory_HS1.png" width="200"/>
+      <br><sub>On the Home Screen</sub>
+    </td>
   </tr>
 </table>
 
@@ -64,6 +68,10 @@ iOS 17.5/18.0
     <td align="center">
       <img src="Screenshots/iOS26_Screenshots/UserDirectory_SC2_iOS_26.png"width="200"/>
       <br><sub>Search</sub>
+    </td>
+    <td align="center">
+      <img src="Screenshots/iOS26_Screenshots/UserDirectory_HS2_iOS_26.png" width="200"/>
+      <br><sub>On the Home Screen</sub>
     </td>
   </tr>
 </table>
@@ -96,6 +104,9 @@ iOS 17.5/18.0
   - Filtering/search logic.
   - UserService fetching.
   - Result validation and edge cases.
+<br><br>
+
+### ✅ Includes a custom app icon for polish and realism.
 <br><br>
 
 ## 🧪 Testing
